@@ -1,0 +1,1 @@
+https://mybinder.org/v2/gh/gso1/english-project/HEAD?urlpath=%2Fvoila%2Frender%2FWidget_project_2.ipynb
